@@ -1,0 +1,17 @@
+Lectura 1: “A very short history of Data Science”.
+ https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#1bb5557555cf
+-------------------------------
+Lectura 2: “¿Qué diablos es Ciencia de Datos?”.
+https://medium.com/datos-y-ciencia/qu%C3%A9-diablos-es-ciencia-de-datos-f1c8c7add107
+--------------------------------
+Lectura 3: “Así que Ciencia de Datos .. eh ? Juan Carlos Vázquez”
+https://medium.com/datos-y-ciencia/as%C3%AD-que-ciencia-de-datos-eh-e05b49549dc6
+--------------------------
+Lecturas generales:
+•	Álvaro Luis Bustamante, et. alt. (2018) Ciencia de datos: técnicas analíticas y aprendizaje estadístico. Un enfoque práctico;
+Alfaomega City: Bogotá, D.C.
+•	Nick Bostrom (2014) Superintelligence: Paths, Dangers, Strategies. Oxford University Press City, UK.
+•	José Ramón López-Portillo Romano (2018) La gran transición. Retos y oportunidades del cambio tecnológico exponencial; Fondo de Cultura Económica, México.
+
+
+
